@@ -8,6 +8,10 @@ import joblib
 import pandas as pd
 import streamlit as st
 
+import sys
+
+st.write(sys.version)
+
 MODEL_PATH = Path(__file__).with_name("model.joblib")
 
 
