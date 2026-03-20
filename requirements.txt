@@ -5,3 +5,4 @@ pandas
 scikit-learn
 catboost
 streamlit
+altair==4.2.2
