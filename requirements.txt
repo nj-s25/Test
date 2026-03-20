@@ -1,8 +1,8 @@
+streamlit==1.33.0
+altair==4.2.2
 joblib
 lightgbm>=4,<5
 numpy
 pandas
 scikit-learn
 catboost
-streamlit
-altair==4.2.2
